@@ -1,6 +1,6 @@
 <iframe width="750" height="500" align="right" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/Jay-HelpBot"></iframe>
-## Candidature
-**Jayesh Rane**
+## Jayesh Rane
+**Candidature**
   
 * Career Objective  
 * Experience  
