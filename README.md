@@ -1,9 +1,10 @@
 <iframe width="750" height="500" align="right" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/Jay-HelpBot"></iframe>
 
 ## Jayesh Rane  
-![](https://github.com/jayeshrane2107/Jay-HelpBot/blob/master/Jay-bot.png "Jayesh Rane")  
-**Candidature**
-  
+<img src="https://github.com/jayeshrane2107/Jay-HelpBot/blob/master/Jay-bot.png" width="50" height="50" /> 
+
+**Candidature**  
+
 * Career Objective  
 * Experience  
 * Organizations worked  
